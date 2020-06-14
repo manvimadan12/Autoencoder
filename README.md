@@ -4,6 +4,13 @@ This repository contains the implementation of a movie recommendation system usi
 # Dataset
 Movie Lens Movie Recommendation from GroupLens Research Licence [1]
 
+# Requirements
+[Python](https://www.python.org/downloads/)
+
+### Install the required libraries through command line
+
+`pip3 intsall -r requirements.txt`
+
 # References
 1. F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History
 and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4,
