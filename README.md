@@ -11,6 +11,17 @@ Movie Lens Movie Recommendation from GroupLens Research Licence [1]
 
 `pip3 intsall -r requirements.txt`
 
+# Installation
+Clone this repository:
+git clone https://github.com/manvimadan12/What-should-we-pay-her-.git
+or click Download ZIP in right panel of repository and extract the code
+
+# Steps to run the notebook
+Open Jupyter Notebook to view the following:
+* Predict salary using SVM regression - Support Vector Machines for regression analysis
+* Predict salary using Random Forest regression - Random Forest for regression analysis
+* Predict salary using Decision tree regression - Decision Trees for regression analysis
+
 # References
 1. F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History
 and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4,
