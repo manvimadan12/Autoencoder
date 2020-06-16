@@ -17,7 +17,9 @@ git clone https://github.com/manvimadan12/Autoencoder.git
 or click Download ZIP in right panel of repository and extract the code
 
 # Steps to run the notebook
-* Open Jupyter Notebook to view the following
+* Open Jupyter Notebook : Movie Recommendation.ipynb
+* Run each cell to see the code in action
+
 # References
 1. F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History
 and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4,
